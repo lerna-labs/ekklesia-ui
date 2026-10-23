@@ -1,0 +1,7 @@
+dist/
+node_modules/
+coverage/
+.claude/
+# Release automation files are generated and edited by tooling, so they are not reformatted.
+.github/
+.changeset/
